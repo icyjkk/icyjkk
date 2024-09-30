@@ -5,7 +5,19 @@ Throughout my career, I have developed a Bitcoin wallet with advanced custody op
 
 
 ## 💼 **Highlighted Projects:**
+- [Bitcoin wallet](https://frontend-eaiv.onrender.com/) with advanced custody options in collaboration with [Fortris](https://fortris.com/) and [@kowaalski](https://github.com/kowaalski).
+- High-speed Twitter monitor.
+- Multiple Discord bots and monitors.
 
+## 🔧 Technologies & Skills:
+
+- **Languages:** Python, JavaScript, Java, SQL, C++, Haskell, Solidity.
+- **Frameworks & Libraries:** React, React Native, NestJS, Express.
+- **Blockchain:** Bitcoin, Ethereum.
+- **Other Skills:** Web Scraping, REST APIs, Full Stack Development, Agile Methodology.
+  
+## 📫 Contact Me
+📧 Email me at jcdelgado5.0006@yahoo.es
 <!--
 **icyjkk/icyjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
