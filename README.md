@@ -1,5 +1,5 @@
 ## 👋 ¡Hello! I am Juanka 👨‍💻
-
+Ingeniero de Software | Full Stack Developer con énfasis en Backend | Apasionado por Blockchain
 <!--
 **icyjkk/icyjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
