@@ -4,7 +4,7 @@ I am a Computer Engineer graduated from the University of Málaga (UMA) with exp
 Throughout my career, I have developed a Bitcoin wallet with advanced custody options, combining my blockchain knowledge with Full-Stack development skills.
 
 
-##💼 **Highlighted Projects:**
+## 💼 **Highlighted Projects:**
 
 <!--
 **icyjkk/icyjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
