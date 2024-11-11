@@ -12,9 +12,9 @@ Throughout my career, I have developed a Bitcoin wallet with advanced custody op
 ## 🔧 Technologies & Skills:
 
 - **Languages:** Python, JavaScript, Java, SQL, C++, Haskell, Solidity.
-- **Frameworks & Libraries:** React, React Native, NestJS, Express.
+- **Frameworks & Libraries:** React, React Native, NestJS, Express, Flask.
 - **Blockchain:** Bitcoin, Ethereum.
-- **Other Skills:** Web Scraping, REST APIs, Full Stack Development, Agile Methodology.
+- **Other Skills:** Web Scraping, REST APIs, Full Stack Development, Agile Methodology, data structure.
   
 ## 📫 Contact Me
 📧 Email me at jcdelgado5.0006@yahoo.es
