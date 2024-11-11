@@ -5,7 +5,7 @@ Throughout my career, I have developed a Bitcoin wallet with advanced custody op
 
 
 ## 💼 **Highlighted Projects:**
-- [Bitcoin wallet](https://frontend-eaiv.onrender.com/) with advanced custody options in collaboration with [Fortris](https://fortris.com/) and [@kowaalski](https://github.com/kowaalski).
+- [Bitcoin wallet](https://frontend-eaiv.onrender.com/) with advanced custody options.
 - High-speed Twitter monitor.
 - Multiple Discord bots and monitors.
 
