@@ -8,6 +8,7 @@ Throughout my career, I have developed a Bitcoin wallet with advanced custody op
 - [Bitcoin wallet](https://frontend-eaiv.onrender.com/) with advanced custody options.
 - High-speed Twitter monitor.
 - Multiple Discord bots and monitors.
+- [Project ideas to take you from beginner to advanced in Backend.](https://github.com/icyjkk/Backend-Projects)
 
 ## 🔧 Technologies & Skills:
 
