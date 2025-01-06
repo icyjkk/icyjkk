@@ -19,6 +19,10 @@ Throughout my career, I have developed a Bitcoin wallet with advanced custody op
   
 ## 📫 Contact Me
 📧 Email me at jcdelgado5.0006@yahoo.es
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=icyjkk&theme=dark)
+
+
 <!--
 **icyjkk/icyjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
