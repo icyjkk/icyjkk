@@ -17,7 +17,7 @@ Separately, through other experiences outside of these projects, I have acquired
 - **Languages:** Python, JavaScript, Java, SQL, C++, Haskell, Solidity.
 - **Frameworks & Libraries:** React, React Native, NestJS, Express, Flask.
 - **Blockchain:** Bitcoin, Ethereum.
-- **Other Skills:** Web Scraping, REST APIs, Full Stack Development, Agile Methodology, Data Structure, Databases.
+- **Other Skills:** Web Scraping, REST APIs, Full Stack Development, Agile Methodology, Data Structure, Databases, Git.
   
 ## 📫 Contact Me
 📧 Email me at jcdelgado5.0006@yahoo.es
