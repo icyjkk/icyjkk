@@ -3,6 +3,8 @@ I am a Computer Engineer graduated from the University of Málaga (UMA) with exp
 
 Throughout my career, I have developed a Bitcoin wallet with advanced custody options, combining my blockchain knowledge with Full-Stack development skills.
 
+Separately, through other experiences outside of these projects, I have acquired and strengthened skills such as teamwork, discipline, and time management. I have also demonstrated my ability to work under pressure and adapt to changing circumstances, applying values like resilience, dedication, and constant effort throughout my professional journey.
+
 
 ## 💼 **Highlighted Projects:**
 - [Bitcoin wallet](https://frontend-eaiv.onrender.com/) with advanced custody options.
